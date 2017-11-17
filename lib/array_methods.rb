@@ -1,5 +1,5 @@
 def using_include(array, element)
-  array.include?("blue")
+  array.include?("element1")
 
 end
 
